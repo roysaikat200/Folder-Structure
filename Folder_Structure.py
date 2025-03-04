@@ -27,3 +27,5 @@ for path_str in paths_to_create:
             logging.info(f"File already exists: {path}")
 
 logging.info("Folder structure created successfully.")
+
+Hello
